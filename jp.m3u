@@ -9,7 +9,7 @@ https://mt01.utako.moe/test/intro.mp4/index.m3u8
 #EXTINF:-1 group-title="Information" tvg-logo="https://cdn-icons-png.flaticon.com/512/0/49.png", 「utako.moe」リンクURLの他所への転載お断り!!詳細はgithubのREADME
 https://mt01.utako.moe/test/intro.mp4/index.m3u8
 
-# Relay Server (JP) | Geo-Block (please contact me so i can add you to a whitelist)
+# Relay Server (SG) | Geo-Block (please contact me so i can add you to a whitelist)
 # Please note my relay system will start fetching the sources when someone start watching it
 # And will stop the fetch when no one is watching anymore in order to save bandwith
 # so it will take a time before the content is become playable
@@ -74,3 +74,4 @@ https://zhx-stream.shiku.cloud/iptv/master_stream/242670be-a08a-4dea-a56f-da33fc
 https://zhx-stream.shiku.cloud/iptv/master_stream/1715917f-9f11-46df-8b0a-e92ec4c9b986/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SHIKU Private Radio" group-title="Zhenix Relay",SHIKU Private Radio 
 https://zhx-stream.shiku.cloud/iptv/master_stream/97d531a9-7172-4ac4-8cc6-062e46ae1cf8/master.m3u8
+
