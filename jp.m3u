@@ -13,6 +13,7 @@ https://mt01.utako.moe/test/intro.mp4/index.m3u8
 # Please note my relay system will start fetching the sources when someone start watching it
 # And will stop the fetch when no one is watching anymore in order to save bandwith
 # so it will take a time before the content is become playable
+# Note:Relay will be offline at 03:00 AM GMT+8 and back online at 06:30 AM GMT+8
 
 #EXTINF:-1 tvg-id="at_x" tvg-name="AT-X" group-title="Zhenix Relay",AT-X 
 https://zhx-stream.shiku.cloud/iptv/master_stream/e28d1260-fca0-4a34-9197-e31c6100da0d/master.m3u8
@@ -74,5 +75,6 @@ https://zhx-stream.shiku.cloud/iptv/master_stream/242670be-a08a-4dea-a56f-da33fc
 https://zhx-stream.shiku.cloud/iptv/master_stream/1715917f-9f11-46df-8b0a-e92ec4c9b986/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SHIKU Private Radio" group-title="Zhenix Relay",SHIKU Private Radio 
 https://zhx-stream.shiku.cloud/iptv/master_stream/97d531a9-7172-4ac4-8cc6-062e46ae1cf8/master.m3u8
+
 
 
