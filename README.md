@@ -1,3 +1,8 @@
+# THIS IS A RELAY VERSION
+All channel in the playlist is relay to my private server located in Singapore region<br>
+If you located in europe or western region please use original server, because this relay server is restricted to asia region only :)<br>
+Of course please support the original owner of this project (you can find more below)
+
 # IPTV-JP project / IPTV-JPプロジェクト
 
 This service allows you to watch Japanese television over the internet.  
@@ -51,10 +56,19 @@ Amazonギフト券での寄付も可能です。[こちら](https://www.amazon.c
 
 ---
 
-You can donate via Ko-fi (PayPal payments, cards,..)
+You can donate via PayPal (PayPal payments, cards,..)
 
-Ko-fi経由で寄付することができます
+PayPal経由で寄付することができます
 
-[![Donate on Ko-Fi](https://cdn.prod.website-files.com/5c14e387dab576fe667689cf/670f5a02fad2b4c413af6d15_support_me_on_kofi_badge_beige.png)](https://ko-fi.com/dinhluong)
+[![Donate on PayPal](https://villageatithaca.org/wp-content/uploads/2020/03/paypal-donate-button.png)](http://paypal.me/Tieptran1970)
+
+
+---
+
+Via crypto
+
+ETH: 0xbc02B78b96fcCE0548302272E40fe16716483E27
+
+TRX: TFnjRJCYY4rWj2KmUJra4bMEHUsLG3uW39
 
 ----
