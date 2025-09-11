@@ -1,6 +1,6 @@
 # THIS IS A RELAY VERSION
 All channel in the playlist is relay to my private server located in Singapore region<br>
-If you located in europe or western region please use original server, because this relay server is restricted to asia region only :)<br>
+If your located in europe or western region please use original server, because this relay server is restricted to asia region only :)<br>
 Of course please support the original owner of this project (you can find more below)
 
 # IPTV-JP project / IPTV-JPプロジェクト
