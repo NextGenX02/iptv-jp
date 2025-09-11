@@ -1,4 +1,4 @@
-# THIS IS A RELAY VERSION (Not Official / Fan relay)
+# THIS IS A RELAY VERSION (Not Official / Fans relay)
 All channel in the playlist is relay to my private server located in Singapore region<br>
 If your located in europe or western region please use original server, because this relay server is restricted to asia region only :)<br>
 Of course please support the original owner of this project (you can find more below)
