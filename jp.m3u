@@ -15,6 +15,8 @@ https://mt01.utako.moe/test/intro.mp4/index.m3u8
 # so it will take a time before the content is become playable
 # Note:Relay will be offline at 00:00 AM GMT+8 and back online at 06:30 AM GMT+8
 
+#EXTINF:-1 tvg-id="JidaigekiSenmonChannel.jp" tvg-name="Jidaigeki Senmon" group-title="Shiku Private TV",Jidaigeki Senmon 
+https://zhx-stream.shiku.cloud/iptv/master_stream/1c1160b3-37d7-419b-b70e-1252998093b8/master.m3u8
 #EXTINF:-1 tvg-id="MusicJapanTV.jp" tvg-name="Music Japan TV" group-title="Shiku Private TV",Music Japan TV 
 https://zhx-stream.shiku.cloud/iptv/master_stream/1831e9bc-2cf0-444a-bead-29c42e2490b2/master.m3u8
 #EXTINF:-1 tvg-id="TAKARAZUKASKYSTAGE.jp" tvg-name="Takarazuka Sky Stage" group-title="Shiku Private TV",Takarazuka Sky Stage 
@@ -81,6 +83,7 @@ https://zhx-stream.shiku.cloud/iptv/master_stream/242670be-a08a-4dea-a56f-da33fc
 https://zhx-stream.shiku.cloud/iptv/master_stream/1715917f-9f11-46df-8b0a-e92ec4c9b986/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SHIKU Private Radio" group-title="Zhenix Relay",SHIKU Private Radio 
 https://zhx-stream.shiku.cloud/iptv/master_stream/97d531a9-7172-4ac4-8cc6-062e46ae1cf8/master.m3u8
+
 
 
 
