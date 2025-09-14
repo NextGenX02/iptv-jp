@@ -1,3 +1,8 @@
+# Important Note
+I Can't keep my server online 24/7 due to limited bandwith, so the server will go **offline** at *00:00 - 08:00 GMT+8*<br>
+So i very very courage you to help the original owner of this repo by donating, so it can keep to maintain the service or upgrade the server<br>
+Because the relay channel in here is still using original source until one of it is down <br>
+Thank you if you read this until the end! 😊
 # THIS IS A RELAY VERSION (Not Official / Fans relay)
 All channel in the playlist is relay to my private server located in Singapore region<br>
 If your located in europe or western region please use original server, because this relay server is restricted to asia region only :)<br>
