@@ -8,6 +8,9 @@ All channel in the playlist is relay to my private server located in Singapore r
 If your located in europe or western region please use original server, because this relay server is restricted to asia region only :)<br>
 Of course please support the original owner of this project (you can find more below)
 
+## Current area that can access this relay server
+Indonesia,Japan,Vietnam,Hong Kong,China,South Korea,Malaysia,Thailand,Singapore,Philippines<br>
+
 # IPTV-JP project / IPTV-JPプロジェクト
 
 This service allows you to watch Japanese television over the internet.  
