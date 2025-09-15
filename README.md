@@ -19,6 +19,7 @@ Of course please support the original owner of this project (you can find more b
 * Thailand
 * Singapore
 * Philippines
+* and some channel MTV and Kids Station
 
 # IPTV-JP project / IPTV-JPプロジェクト
 
