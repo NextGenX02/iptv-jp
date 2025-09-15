@@ -15,6 +15,8 @@ https://mt01.utako.moe/test/intro.mp4/index.m3u8
 # so it will take a time before the content is become playable
 # Note:Relay will be offline at 00:00 AM GMT+8 and back online at 08:00 AM GMT+8
 
+#EXTINF:-1 tvg-id="bs_tbs" tvg-name="BS-TBS" group-title="Shiku Private TV",BS-TBS 
+https://zhx-stream.shiku.cloud/iptv/master_stream/387c70d4-429f-460c-bb6d-f1357b24c6d0/master.m3u8
 #EXTINF:-1 tvg-id="JidaigekiSenmonChannel.jp" tvg-name="Jidaigeki Senmon" group-title="Shiku Private TV",Jidaigeki Senmon 
 https://zhx-stream.shiku.cloud/iptv/master_stream/1c1160b3-37d7-419b-b70e-1252998093b8/master.m3u8
 #EXTINF:-1 tvg-id="MusicJapanTV.jp" tvg-name="Music Japan TV" group-title="Shiku Private TV",Music Japan TV 
