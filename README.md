@@ -13,7 +13,6 @@ Of course please support the original owner of this project (you can find more b
 * Japan
 * Vietnam
 * Hong Kong
-* China
 * South Korea
 * Malaysia
 * Thailand
