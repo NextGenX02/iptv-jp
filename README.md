@@ -1,5 +1,6 @@
 # Important Note
-I Can't keep my server online 24/7 due to limited bandwith, so the server will go **offline** at *00:00 - 08:00 GMT+8*<br>
+~~I Can't keep my server online 24/7 due to limited bandwith, so the server will go **offline** at *00:00 - 08:00 GMT+8*<br>~~
+Temporary enable the relay 24/7 for couple week
 So i very very courage you to help the original owner of this repo by donating, so he can keep to maintain the service or upgrade the server<br>
 Because the relay channel in here is still using original source from the original repo until one of it is down <br>
 Thank you if you read this until the end! 😊
