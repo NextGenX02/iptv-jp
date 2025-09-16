@@ -5,20 +5,11 @@ Because the relay channel in here is still using original source from the origin
 Thank you if you read this until the end! 😊
 # THIS IS A RELAY VERSION (Not Official / Fans relay)
 All channel in the playlist is relay to my private server located in Singapore region<br>
-If your located in europe or western region please use original server, because this relay server is restricted to asia region only :)<br>
+~~If your located in europe or western region please use original server, because this relay server is restricted to asia region only :)<br>~~
 Of course please support the original owner of this project (you can find more below)
 
 ## Current area that can access this relay server
-* Indonesia
-* Japan
-* Vietnam
-* Hong Kong
-* South Korea
-* Malaysia
-* Thailand
-* Singapore
-* Philippines
-* and some channel MTV, Kids Station, NHK-E and NHK-G
+* I decided to disable GEO Restriction temporary, because i want to check the CDN perfomance
 
 # IPTV-JP project / IPTV-JPプロジェクト
 
