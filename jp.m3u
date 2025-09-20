@@ -59,7 +59,8 @@ https://zhx-stream.shiku.cloud/iptv/master_stream/fb2df043-1865-4075-8296-a9e741
 https://zhx-stream.shiku.cloud/iptv/master_stream/03c05346-a0be-464a-83c9-8583cced2ed7/master.m3u8
 #EXTINF:-1 tvg-id="js1" tvg-name="J-Sport 1" group-title="Zhenix Relay",J-Sport 1 
 https://zhx-stream.shiku.cloud/iptv/master_stream/e02f8c06-d2b1-43ac-b3c0-d25988ac062d/master.m3u8
-
+#EXTINF:-1 tvg-id="bs10_star_channel" tvg-name="BS10 Star" group-title="Shiku Private TV",BS10 Star 
+https://zhx-stream.shiku.cloud/iptv/master_stream/fd7c4cbd-2de6-499d-acb0-7209f93c0166/master.m3u8
 #EXTINF:-1 tvg-id="js4" tvg-name="J-Sport 4" group-title="Zhenix Relay",J-Sport 4 
 https://zhx-stream.shiku.cloud/iptv/master_stream/b3cf3e14-a247-4deb-be03-e185449bbbf0/master.m3u8
 #EXTINF:-1 tvg-id="mbs" tvg-name="MBS" group-title="Zhenix Relay",MBS 
@@ -84,4 +85,5 @@ https://zhx-stream.shiku.cloud/iptv/master_stream/242670be-a08a-4dea-a56f-da33fc
 https://zhx-stream.shiku.cloud/iptv/master_stream/1715917f-9f11-46df-8b0a-e92ec4c9b986/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SHIKU Private Radio" group-title="Zhenix Relay",SHIKU Private Radio 
 https://zhx-stream.shiku.cloud/iptv/master_stream/97d531a9-7172-4ac4-8cc6-062e46ae1cf8/master.m3u8
+
 
