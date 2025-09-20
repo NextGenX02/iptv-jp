@@ -5,7 +5,11 @@ So i very very courage you to help the original owner of this repo by donating, 
 Because the relay channel in here is still using original source from the original repo until one of it is down (Replace with my backup source) <br>
 Thank you if you read this until the end! 😊<br>
 # THIS IS A RELAY VERSION (Not Official / Fans relay)
-All channel in the playlist is relay to my private server located in Singapore region<br>
+All channel in the playlist is relay to my private server located in Singapore region.<br>
+Please remember that my server is on **ON DEMAND** mode meaning, my server will fetch the source if someone is open the link in the playlist.<br>
+And my server will terminate the connection to the source if no one is watching that stream.<br>
+Lastly.., the server will cache the data **(For 10 seconds)** before sending back to your client, so it will take a time before the stream can be play by your client.<br>
+
 ~~If your located in europe or western region please use original server, because this relay server is restricted to asia region only :)<br>~~
 Of course please support the original owner of this project (you can find more below)
 
