@@ -5,7 +5,10 @@ And my server will terminate the connection to the source if no one is watching 
 Lastly.., the server will cache the data **(For 10 seconds)** before sending back to your client, so it will take a time before the stream can be play by your client.<br>
 
 ~~If your located in europe or western region please use original server, because this relay server is restricted to asia region only :)<br>~~
-Of course please support the original owner of this project (you can find more below)
+Of course please support the original owner of this project (you can find more below)<br>
+
+## Server Status
+Online:[Relay will move to another server with higher speed and bandwith.]
 
 ## Current area that can access this relay server
 * I decided to disable GEO Restriction temporary, because i want to check the CDN perfomance
