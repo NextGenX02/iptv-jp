@@ -8,7 +8,7 @@ Lastly.., the server will cache the data **(For 10 seconds)** before sending bac
 Of course please support the original owner of this project (you can find more below)<br>
 
 ## Server Status
-Partialy Online:[Running on backup server until the main server is done]
+Partialy Online:[Running on backup server until the main server is done, lag maybe more frequent due to speed from backup server is not fast compare the main server]
 
 ## Current area that can access this relay server
 * I decided to disable GEO Restriction temporary, because i want to check the CDN perfomance
