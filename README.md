@@ -8,7 +8,7 @@ Lastly.., the server will cache the data **(For 10 seconds)** before sending bac
 Of course please support the original owner of this project (you can find more below)<br>
 
 ## Server Status
-Online:[Main server is back online, monitoring the status!, Please use discussions if you get buffering or no respond from server after 30 seconds]
+Online:[Server will offline at 00:00 - 06:00 GMT+8 for streaming software update, Please use original source at this time!]
 
 ## Current area that can access this relay server
 * I decided to disable GEO Restriction temporary, because i want to check the CDN perfomance
