@@ -8,7 +8,7 @@ Lastly.., the server will cache the data **(For 10 seconds)** before sending bac
 Of course please support the original owner of this project (you can find more below)<br>
 
 ## Server Status
-Online:[]
+Offline:[Problem on proxy server detected, Please come back later, sorry for the intterupt :(]
 
 ## Current area that can access this relay server
 * I decided to disable GEO Restriction temporary, because i want to check the CDN perfomance
