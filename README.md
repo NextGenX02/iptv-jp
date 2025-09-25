@@ -8,7 +8,7 @@ Lastly.., the server will cache the data **(For 10 seconds)** before sending bac
 Of course please support the original owner of this project (you can find more below)<br>
 
 ## Server Status
-Online:[Kids station, Takarazuka sky stage, Music Japan TV, NHK BSP4K, Jidaigeki Senmon its not available for viewing temporary due proxy server issue]
+Online:[All channel is back online, sorry for the suddent interruption]
 
 ## Current area that can access this relay server
 * I decided to disable GEO Restriction temporary, because i want to check the CDN perfomance
