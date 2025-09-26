@@ -1,3 +1,6 @@
+# IMPORTANT NOTICE
+My server will move to another location. (still in asia region and have same speed as the current server)
+
 # THIS IS A RELAY VERSION (Not Official / Fans relay)
 All channel in the playlist is relay to my private server located in Malaysia region.<br>
 Please remember that my server is in **ON-DEMAND** mode meaning, my server will fetch the source if someone is open the link in the playlist.<br>
