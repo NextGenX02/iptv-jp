@@ -11,7 +11,7 @@ Lastly.., the server will cache the data **(For 10 seconds)** before sending bac
 Of course please support the original owner of this project (you can find more below)<br>
 
 ## Server Status
-Online:[My Relay will be offline for 24 hour, starting tomorrow at 00:00 GMT+8]
+Offline:[Server is offline!, Please comeback tomorrow]
 
 ## Current area that can access this relay server
 * I decided to disable GEO Restriction temporary, because i want to check the CDN perfomance
