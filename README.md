@@ -11,7 +11,7 @@ Lastly.., the server will cache the data **(For 10 seconds)** before sending bac
 Of course please support the original owner of this project (you can find more below)<br>
 
 ## Server Status
-Online:[For user that use AptvPlayer for play the stream, please use another player like vlc/tivimate and etc.., this due the app just constanly request the stream to every channel to get the thumbnail which make the server go a litle bit traffic spike and trigger the firewall.]
+Online:[My Relay will be offline for 24 hour, starting tomorrow at 00:00 GMT+8]
 
 ## Current area that can access this relay server
 * I decided to disable GEO Restriction temporary, because i want to check the CDN perfomance
