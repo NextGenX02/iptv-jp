@@ -1,5 +1,5 @@
 # IMPORTANT NOTICE
-My server will move to another location. (still in asia region and have same speed as the current server)
+Server is in moving progress, Please use link from the original repo
 
 # THIS IS A RELAY VERSION (Not Official / Fans relay)
 All channel in the playlist is relay to my private server located in Malaysia region.<br>
