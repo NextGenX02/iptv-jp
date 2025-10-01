@@ -2,7 +2,7 @@
 Server is in moving progress, Please use link from the original repo
 
 # THIS IS A RELAY VERSION (Not Official / Fans relay)
-All channel in the playlist is relay to my private server located in Malaysia region.<br>
+All channel in the playlist is relay to my private server located in ---- region.<br>
 Please remember that my server is in **ON-DEMAND** mode meaning, my server will fetch the source if someone is open the link in the playlist.<br>
 And my server will terminate the connection to the source if no one is watching that stream.<br>
 Lastly.., the server will cache the data **(For 10 seconds)** before sending back to your client, so it will take a time before the stream can be play by your client.<br>
