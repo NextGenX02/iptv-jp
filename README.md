@@ -1,6 +1,6 @@
 # IMPORTANT NOTICE
 Relay will back online tomorrow at 18:00 GMT+8.
-but if you want to watch while waiting [!click here](https://raw.githubusercontent.com/NextGenX02/iptv-jp/refs/heads/shiku-test/jp.m3u) this link will be remove tomorrow at 17:00 GMT+8
+but if you want to watch while waiting [click here](https://raw.githubusercontent.com/NextGenX02/iptv-jp/refs/heads/shiku-test/jp.m3u) this link will be remove tomorrow at 17:00 GMT+8
 
 # THIS IS A RELAY VERSION (Not Official / Fans relay)
 All channel in the playlist is relay to my private server located in ---- region.<br>
