@@ -1,9 +1,5 @@
-# IMPORTANT NOTICE
-Relay will back online tomorrow at 18:00 GMT+8.
-but if you want to watch while waiting [click here](https://raw.githubusercontent.com/NextGenX02/iptv-jp/refs/heads/shiku-test/jp.m3u) this link will be remove tomorrow at 17:00 GMT+8
-
 # THIS IS A RELAY VERSION (Not Official / Fans relay)
-All channel in the playlist is relay to my private server located in ---- region.<br>
+All channel in the playlist is relay to my private server located in HK region.<br>
 Please remember that my server is in **ON-DEMAND** mode meaning, my server will fetch the source if someone is open the link in the playlist.<br>
 And my server will terminate the connection to the source if no one is watching that stream.<br>
 Lastly.., the server will cache the data **(For 10 seconds)** before sending back to your client, so it will take a time before the stream can be play by your client.<br>
@@ -12,7 +8,7 @@ Lastly.., the server will cache the data **(For 10 seconds)** before sending bac
 Of course please support the original owner of this project (you can find more below)<br>
 
 ## Server Status
-Offline:[Server is offline!, Please comeback tomorrow]
+Offline:[Server is in testing mode!]
 
 ## Current area that can access this relay server
 * I decided to disable GEO Restriction temporary, because i want to check the CDN perfomance
