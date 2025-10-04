@@ -18,8 +18,6 @@ https://mt01.utako.moe/test/intro.mp4/index.m3u8
 https://zhx-stream.shiku.cloud/iptv/master_stream/69befac7-2ca5-47e6-b894-6c602b42560c/master.m3u8
 #EXTINF:-1 tvg-id="tv_asahi_channel_2" tvg-name="TV Asahi 2" group-title="Zhenix Relay",TV Asahi 2 
 https://zhx-stream.shiku.cloud/iptv/master_stream/aa9c9bb9-f70f-4192-b8a3-bd75f0b5d53e/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Mnet (Test)" group-title="Shiku Private TV",Mnet (Test) 
-https://zhx-stream.shiku.cloud/iptv/master_stream/992e690f-aeb8-4b8b-8f95-23c9739400a6/master.m3u8
 #EXTINF:-1 tvg-id="golf_network" tvg-name="Golf Network" group-title="Zhenix Relay",Golf Network 
 https://zhx-stream.shiku.cloud/iptv/master_stream/4afa24eb-c76f-4492-9764-bbcc8da73f4d/master.m3u8
 #EXTINF:-1 tvg-id="disney_channel" tvg-name="Disney Channel (Japan)" group-title="Zhenix Relay",Disney Channel (Japan) 
@@ -108,4 +106,5 @@ https://zhx-stream.shiku.cloud/iptv/master_stream/1715917f-9f11-46df-8b0a-e92ec4
 # Bonus Channel
 #EXTINF:-1 tvg-id="411954" tvg-name="Aniplus" group-title="Zhenix Relay",Aniplus (ID)
 http://zhx-stream.shiku.cloud/iptv/master_stream/ebca7aa2-410e-4334-8e1a-4fb29b6421b2/master.m3u8
+
 
