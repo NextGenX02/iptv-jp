@@ -25,7 +25,7 @@ https://zhx-stream.shiku.cloud/iptv/master_stream/f1e0952a-8053-41b4-b289-cd20c5
 #EXTINF:-1 tvg-id="tv_asahi_channel_1" tvg-name="TV Asahi 1" group-title="Zhenix Relay",TV Asahi 1 
 https://zhx-stream.shiku.cloud/iptv/master_stream/61f52cac-8508-4f61-a1eb-3ba77bbbdaf0/master.m3u8
 #EXTINF:-1 tvg-id="fuji_tv" tvg-name="Fuji TV" group-title="Zhenix Relay",Fuji TV 
-http://zhx-stream.shiku.cloud/iptv/master_stream/d2a212fb-6ef1-4b20-822e-8e1c124432e3/master.m3u8
+https://zhx-stream.shiku.cloud/iptv/master_stream/d2a212fb-6ef1-4b20-822e-8e1c124432e3/master.m3u8
 #EXTINF:-1 tvg-id="bs_ntv" tvg-name="BS-NTV" group-title="Zhenix Relay",BS-NTV 
 https://zhx-stream.shiku.cloud/iptv/master_stream/458ae345-c597-4bce-8005-fbc4a4c966e2/master.m3u8
 #EXTINF:-1 tvg-id="kayo_pops" tvg-name="Kayo Pops" group-title="Zhenix Relay",Kayo Pops 
@@ -105,7 +105,8 @@ https://zhx-stream.shiku.cloud/iptv/master_stream/1715917f-9f11-46df-8b0a-e92ec4
 
 # Bonus Channel
 #EXTINF:-1 tvg-id="411954" tvg-name="Aniplus" group-title="Zhenix Relay",Aniplus (ID)
-http://zhx-stream.shiku.cloud/iptv/master_stream/ebca7aa2-410e-4334-8e1a-4fb29b6421b2/master.m3u8
+https://zhx-stream.shiku.cloud/iptv/master_stream/ebca7aa2-410e-4334-8e1a-4fb29b6421b2/master.m3u8
+
 
 
 
