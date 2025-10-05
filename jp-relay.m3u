@@ -14,7 +14,7 @@ https://zhx-stream.shiku.cloud/assets/no_vid.mp4
 # And will stop the fetch when no one is watching anymore in order to save bandwith
 # so it will take a time before the content is become playable
 
-#EXTINF:-1 tvg-id="channel_ginga" tvg-name="Channel Ginga" group-title="Shiku Private TV",Channel Ginga 
+#EXTINF:-1 tvg-id="channel_ginga" tvg-name="Channel Ginga" group-title="Zhenix Relay",Channel Ginga 
 https://zhx-stream.shiku.cloud/iptv/master_stream/8681f8f2-dfbb-4bb0-b942-96058ee2addb/master.m3u8
 #EXTINF:-1 tvg-id="mnet" tvg-name="Mnet (Japan)" group-title="Zhenix Relay",Mnet (Japan) 
 https://zhx-stream.shiku.cloud/iptv/master_stream/69befac7-2ca5-47e6-b894-6c602b42560c/master.m3u8
@@ -108,6 +108,7 @@ https://zhx-stream.shiku.cloud/iptv/master_stream/1715917f-9f11-46df-8b0a-e92ec4
 # Bonus Channel
 #EXTINF:-1 tvg-id="411954" tvg-name="Aniplus" group-title="Zhenix Relay",Aniplus (ID)
 https://zhx-stream.shiku.cloud/iptv/master_stream/ebca7aa2-410e-4334-8e1a-4fb29b6421b2/master.m3u8
+
 
 
 
