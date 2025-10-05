@@ -4,7 +4,7 @@ Please remember that my server is in **ON-DEMAND** mode meaning, my server will 
 And my server will terminate the connection to the source if no one is watching that stream.<br>
 Lastly.., the server will cache the data **(For 10 seconds)** before sending back to your client, so it will take a time before the stream can be play by your client.<br>
 
-I make a web player because not all player is allow to use the relay (due to player constanly request the content for thumbnail)
+I make a web player because not all player is allow to use the relay (due to player constanly request the content for thumbnail)<br>
 [Click here](https://zhx-player.shiku.cloud/) to go to the web player
 
 ~~If your located in europe or western region please use original server, because this relay server is restricted to asia region only :)<br>~~
