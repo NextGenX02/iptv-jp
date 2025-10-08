@@ -1,5 +1,5 @@
 # THIS IS A RELAY VERSION (Not Official / Fans relay)
-All channel in the playlist is relay to my private server located in HK region.<br>
+All channel in the playlist is relay to my private server located in --- region.<br>
 Please remember that my server is in **ON-DEMAND** mode meaning, my server will fetch the source if someone is open the link in the playlist.<br>
 And my server will terminate the connection to the source if no one is watching that stream.<br>
 Lastly.., the server will cache the data **(For 10 seconds)** before sending back to your client, so it will take a time before the stream can be play by your client.<br>
@@ -11,7 +11,8 @@ I make a web player because not all player is allow to use the relay (due to pla
 Of course please support the original owner of this project (you can find more below)<br>
 
 ## Server Status
-Online:[Server might go offline temporarily]
+Online:[Server will go to maintenance at 09-10-2025 23:59 - 18-10-2025 23:59 GMT+8]<br>
+Reason:Updated for the streaming software and deploy backup server
 
 ## Current area that can access this relay server
 * I decided to disable GEO Restriction temporary, because i want to check the CDN perfomance
