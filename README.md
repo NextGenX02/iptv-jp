@@ -11,7 +11,7 @@ I make a web player because not all player is allow to use the relay (due to pla
 Of course please support the original owner of this project (you can find more below)<br>
 
 ## Server Status
-Offline:[Server will go to maintenance at 09-10-2025 23:59 - 18-10-2025 23:59 GMT+8 | Backup stream will be available soon]<br>
+Offline:[Server will go to maintenance at 09-10-2025 23:59 - 18-10-2025 23:59 GMT+8 | [click here](https://raw.githubusercontent.com/NextGenX02/iptv-jp/refs/heads/shiku-test/jp-relay.m3u) for backup stream]<br>
 Reason:Updated for the streaming software and deploy backup server
 
 ## Current area that can access this relay server
