@@ -1,4 +1,5 @@
 #EXTM3U url-tvg="https://epg.pw/xmltv/epg_ID.xml,https://epg.freejptv.com/jp.xml,https://animenosekai.github.io/japanterebi-xmltv/guide.xml" tvg-shift=0 m3uautoload=1
 
-#EXTINF:-1 group-title="Information" tvg-logo="https://i.imgur.com/2OINFaA.png",Relay Server offline!, Please check the repo for backup stream
+#EXTINF:-1 group-title="Information" tvg-logo="https://i.imgur.com/2OINFaA.png",Relay Server offline!, Please check the github repo for backup stream
 http://radio.hkg.reynalix.shiku.cloud:7761/hls/shiku_radio/live.m3u8
+
