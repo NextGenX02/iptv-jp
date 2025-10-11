@@ -17,6 +17,7 @@ Reason:Updated for the streaming software and deploy backup server
 ## Current area that can access this relay server
 * I decided to disable GEO Restriction temporary, because i want to check the CDN perfomance
 * Please note using a **VPN** to access this relay is not support and will be block due to constant abuse from those ISP (except warp by cloudflare).
+* Please used **WARP by cloudflare** if you got laggy, since my server is directly connect to cloudflare server
 
 # IPTV-JP project / IPTV-JPプロジェクト
 
