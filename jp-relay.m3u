@@ -262,6 +262,10 @@ https://zhenix-px02.shiku.cloud/iptv/zhenxen/master_playlist/bs24
 #EXTINF:-1 group-title="BS" tvg-id="jcom_bs" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/90/JCOM_BS_2.png/revision/latest/scale-to-width-down/1000?cb=20250825145119", JCOM BS (Server 02)
 https://zhenix-px02.shiku.cloud/iptv/zhenxen/master_playlist/bs31
 
+#EXTINF:-1 group-title="Tokyo" tvg-id="tokyo_mx2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png",TOKYO MX2 (Server 02)
+https://zhenix-px02.shiku.cloud/iptv/luongz/master_playlist/mt+Tokyo_MX2
+#EXTINF:-1 group-title="CS" tvg-id="at_x" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/AT-X_logo.svg/2560px-AT-X_logo.svg.png",AT-X (Server 02)
+https://zhenix-px02.shiku.cloud/iptv/luongz/master_playlist/mt+AT-X
 #EXTINF:-1 group-title="Kansai" tvg-id="kbs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Kbs_logo.svg/250px-Kbs_logo.svg.png",KBS (Server 02)
 https://zhenix-px02.shiku.cloud/iptv/luongz/master_playlist/mt+kbs
 #EXTINF:-1 group-title="CS" tvg-id="mnet" tvg-logo="https://www.lyngsat.com/logo/tv/mm/m_net_jp.png",Mnet (Server 02)
@@ -350,3 +354,4 @@ https://zhenix-px02.shiku.cloud/iptv/zhenxen/master_playlist/cs16
 https://zhenix-px02.shiku.cloud/iptv/zhenxen/master_playlist/cs15
 #EXTINF:-1 group-title="CS" tvg-id="tbs_news" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tbs-news-jp.png", TBS News (Server 02)
 https://zhenix-px02.shiku.cloud/iptv/zhenxen/master_playlist/cs11
+
