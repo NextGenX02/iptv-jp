@@ -1,21 +1,12 @@
 # THIS IS A RELAY VERSION (Not Official / Fans relay)
-All channel in the playlist is relay to my private server located in --- region.<br>
-Please remember that my server is in **ON-DEMAND** mode meaning, my server will fetch the source if someone is open the link in the playlist.<br>
-And my server will terminate the connection to the source if no one is watching that stream.<br>
-Lastly.., the server will cache the data **(For 10 seconds)** before sending back to your client, so it will take a time before the stream can be play by your client.<br>
-
 I make a web player because not all player is allow to use the relay (due to player constanly request the content for thumbnail)<br>
 [Click here](https://zhx-player.shiku.cloud/) to go to the web player
 
-~~If your located in europe or western region please use original server, because this relay server is restricted to asia region only :)<br>~~
-Of course please support the original owner of this project (you can find more below)<br>
-
 ## Server Status
-Offline:[Server will go to maintenance at 09-10-2025 23:59 - 18-10-2025 23:59 GMT+8 | [click here](https://raw.githubusercontent.com/NextGenX02/iptv-jp/refs/heads/shiku-test/jp-relay.m3u) for backup stream]<br>
-Reason:Updated for the streaming software and deploy backup server
+Online via backup:[[click here](https://raw.githubusercontent.com/NextGenX02/iptv-jp/refs/heads/shiku-test/jp-relay.m3u) for backup stream]<br>
 
 ## Current area that can access this relay server
-* I decided to disable GEO Restriction temporary, because i want to check the CDN perfomance
+* GEO is disable since my server use caching and p2p on the web player (coming soon)
 * Please note using a **VPN** to access this relay is not support and will be block due to constant abuse from those ISP (except warp by cloudflare).
 * Please used **WARP by cloudflare** if you got laggy, since my server is directly connect to cloudflare server
 
