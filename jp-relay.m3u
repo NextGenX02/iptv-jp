@@ -262,6 +262,34 @@ https://zhenix-px02.shiku.cloud/iptv/zhenxen/master_playlist/bs24
 #EXTINF:-1 group-title="BS" tvg-id="jcom_bs" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/90/JCOM_BS_2.png/revision/latest/scale-to-width-down/1000?cb=20250825145119", JCOM BS (Server 02)
 https://zhenix-px02.shiku.cloud/iptv/zhenxen/master_playlist/bs31
 
+#EXTINF:-1 group-title="Kansai" tvg-id="kbs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Kbs_logo.svg/250px-Kbs_logo.svg.png",KBS (Server 02)
+https://zhenix-px02.shiku.cloud/iptv/luongz/master_playlist/mt+kbs
+#EXTINF:-1 group-title="CS" tvg-id="mnet" tvg-logo="https://www.lyngsat.com/logo/tv/mm/m_net_jp.png",Mnet (Server 02)
+https://zhenix-px02.shiku.cloud/iptv/luongz/master_playlist/ca+mnet
+#EXTINF:-1 group-title="CS" tvg-id="tbs_channel_1" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tbs-channel-1-jp.png",TBS Channel 1 (Server 02)
+https://zhenix-px02.shiku.cloud/iptv/luongz/master_playlist/ca+tbsch1
+#EXTINF:-1 group-title="CS" tvg-id="tbs_channel_2" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tbs-channel-2-jp.png",TBS Channel 2 (Server 02)
+https://zhenix-px02.shiku.cloud/iptv/luongz/master_playlist/ca+tbsch1
+#EXTINF:-1 group-title="CS" tvg-id="tv_asahi_channel_1" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv-asahi-channel-1-jp.png",TV Asahi Channel 1 (Server 02)
+https://zhenix-px02.shiku.cloud/iptv/luongz/master_playlist/ca+ex_ch1
+#EXTINF:-1 group-title="CS" tvg-id="tv_asahi_channel_2" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv-asahi-channel-2-jp.png",TV Asahi Channel 2 (Server 02)
+https://zhenix-px02.shiku.cloud/iptv/luongz/master_playlist/ca+ex_ch2
+#EXTINF:-1 group-title="CS" tvg-id="fuji_tv_one" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fuji_tv_one.png",Fuji TV ONE (Server 02)
+https://zhenix-px02.shiku.cloud/iptv/luongz/master_playlist/ca+fuji_one
+#EXTINF:-1 group-title="CS" tvg-id="fuji_tv_two" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fuji_tv_two.png",Fuji TV TWO (Server 02)
+https://zhenix-px02.shiku.cloud/iptv/luongz/master_playlist/ca+fuji_two
+#EXTINF:-1 group-title="CS" tvg-id="pigoo" tvg-logo="https://www.lyngsat.com/logo/tv/pp/pigoo-jp.png",Pigoo (NSFW) (Server 02)
+https://zhenix-px02.shiku.cloud/iptv/luongz/master_playlist/ca+pigoo
+#EXTINF:-1 group-title="CS" tvg-id="v_paradise" tvg-logo="https://www.lyngsat.com/logo/tv/vv/v_paradise_jp.png",V Paradise (NSFW) (Server 02)
+https://zhenix-px02.shiku.cloud/iptv/luongz/master_playlist/ca+v_paradise
+EXTINF:-1 group-title="CS" tvg-id="sports_live_plus" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sports-live-plus-jp.png",Sport Live Plus (Server 02)
+https://zhenix-px02.shiku.cloud/iptv/luongz/master_playlist/ca+sport_live_plus
+#EXTINF:-1 group-title="CS" tvg-id="fighting_tv" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fighting-tv-samurai-jp.png",Fighting TV Samurai (Server 02)
+https://zhenix-px02.shiku.cloud/iptv/luongz/master_playlist/ca+fighting_tv
+#EXTINF:-1 group-title="CS" tvg-id="home_drama" tvg-logo="https://www.lyngsat.com/logo/tv/hh/home-drama-channelpng-jp.png",Home Drama Channel (Server 02)
+https://zhenix-px02.shiku.cloud/iptv/luongz/master_playlist/ca+homedrama
+
+
 #EXTINF:-1 group-title="CS" tvg-id="jidaigeki" tvg-logo="https://www.lyngsat.com/logo/tv/jj/jidaigeki.png", Jidaigeki Senmon (Server 02)
 https://zhenix-px02.shiku.cloud/iptv/zhenxen/master_playlist/cs04
 #EXTINF:-1 group-title="CS" tvg-id="toei_channel" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/toei_channel.png", Toei Channel (Server 02)
