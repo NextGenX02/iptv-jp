@@ -9,7 +9,7 @@ http://radio.hkg.reynalix.shiku.cloud:7761/hls/shiku_radio/live.m3u8
 #EXTINF:-1 group-title="Information" tvg-logo="https://cdn-icons-png.flaticon.com/512/0/49.png", 「utako.moe」リンクURLの他所への転載お断り!!詳細はgithubのREADME
 http://radio.hkg.reynalix.shiku.cloud:7761/hls/shiku_radio/live.m3u8
 
-# Server 01 (HK)
+# Server 01 (NL) 1Gbps
 #EXTINF:-1 group-title="BS" tvg-id="bs11",BS11 
 https://zhenix-px.shiku.cloud/iptv/luongz/master_playlist/mt+BS11
 #EXTINF:-1 group-title="Tokyo" tvg-id="tokyo_mx2",TOKYO MX2 
@@ -197,7 +197,7 @@ https://zhenix-px.shiku.cloud/iptv/zhenxen/master_playlist/cs15
 #EXTINF:-1 group-title="CS" tvg-id="tbs_news", TBS News
 https://zhenix-px.shiku.cloud/iptv/zhenxen/master_playlist/cs11
 
-# Server 02 (SG)
+# Server 02 (SG) 1Gbps
 #EXTINF:-1 group-title="Tokyo" tvg-id="nhk_g_tokyo",NHK G HD (Server 02)
 https://zhenix-px02.shiku.cloud/iptv/zhenxen/master_playlist/hdgd01
 #EXTINF:-1 group-title="Tokyo" tvg-id="nhk_e_tokyo",NHK E HD (Server 02)
@@ -385,6 +385,7 @@ https://zhenix-px02.shiku.cloud/iptv/zhenxen/master_playlist/cs16
 https://zhenix-px02.shiku.cloud/iptv/zhenxen/master_playlist/cs15
 #EXTINF:-1 group-title="CS" tvg-id="tbs_news", TBS News (Server 02)
 https://zhenix-px02.shiku.cloud/iptv/zhenxen/master_playlist/cs11
+
 
 
 
