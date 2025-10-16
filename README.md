@@ -1,5 +1,7 @@
 # THIS IS A RELAY VERSION (Not Official / Fans relay)
-I make a web player because not all player is allow to use the relay (due to player constanly request the content for thumbnail)<br>
+## Note:
+* This playlist use source from the original repo and other source and relay/restream it back to my server to improve the connectivity.<br>
+* I make a web player because not all player is allow to use the relay (due to player constanly request the content for thumbnail)<br>
 [Click here](https://zhx-player.shiku.cloud/) to go to the web player
 
 ## Server Status
