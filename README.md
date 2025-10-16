@@ -1,7 +1,7 @@
 # THIS IS A RELAY VERSION (Not Official / Fans relay)
 ## Note:
 * This playlist use source from the original repo and other source and relay/restream it back to my server to improve the connectivity.<br>
-* I make a web player because not all player is allow to use the relay (due to player constanly request the content for thumbnail)<br>
+* I make a web player because not all player is allow to use the relay (due to player constanly request the content for thumbnail and you help me to reduce server load too since the web version use P2P technology by default)<br>
 [Click here](https://zhx-player.shiku.cloud/) to go to the web player
 * If somehow the server responds with 404 that's mean the source its down!,Please wait until the source is back online.
 * This playlist have 2 server (HK and SG) so you can switch to one that work in case one of those is down.
@@ -11,7 +11,7 @@
 Online via backup:[[click here](https://raw.githubusercontent.com/NextGenX02/iptv-jp/refs/heads/shiku-test/jp-relay.m3u) for backup playlist stream]<br>
 
 ## Current area that can access this relay server
-* GEO is disable since my server use caching and p2p on the web player (coming soon)
+* GEO is disable since my server use caching and p2p on the web player
 * Please note using a **VPN** to access this relay is not support and will be block due to constant abuse from those ISP (except warp by cloudflare).
 * Please used **WARP by cloudflare** if you got laggy, since my server is directly connect to cloudflare server
 
