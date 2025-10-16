@@ -10,6 +10,37 @@ http://radio.hkg.reynalix.shiku.cloud:7761/hls/shiku_radio/live.m3u8
 http://radio.hkg.reynalix.shiku.cloud:7761/hls/shiku_radio/live.m3u8
 
 # Server 01 (HK)
+#EXTINF:-1 group-title="BS" tvg-id="bs11",BS11 
+https://zhenix-px.shiku.cloud/iptv/luongz/master_playlist/mt+BS11
+#EXTINF:-1 group-title="Tokyo" tvg-id="tokyo_mx2",TOKYO MX2 
+https://zhenix-px.shiku.cloud/iptv/luongz/master_playlist/mt+Tokyo_MX2
+#EXTINF:-1 group-title="CS" tvg-id="at_x",AT-X 
+https://zhenix-px.shiku.cloud/iptv/luongz/master_playlist/mt+AT-X
+#EXTINF:-1 group-title="Kansai" tvg-id="kbs",KBS 
+https://zhenix-px.shiku.cloud/iptv/luongz/master_playlist/mt+kbs
+#EXTINF:-1 group-title="CS" tvg-id="tbs_channel_1",TBS Channel 1 
+https://zhenix-px.shiku.cloud/iptv/luongz/master_playlist/ca+tbsch1
+#EXTINF:-1 group-title="CS" tvg-id="tbs_channel_2",TBS Channel 2 
+https://zhenix-px.shiku.cloud/iptv/luongz/master_playlist/ca+tbsch2
+#EXTINF:-1 group-title="CS" tvg-id="tv_asahi_channel_1",TV Asahi Channel 1 
+https://zhenix-px.shiku.cloud/iptv/luongz/master_playlist/ca+ex_ch1
+#EXTINF:-1 group-title="CS" tvg-id="tv_asahi_channel_2",TV Asahi Channel 2 
+https://zhenix-px.shiku.cloud/iptv/luongz/master_playlist/ca+ex_ch2
+#EXTINF:-1 group-title="CS" tvg-id="fuji_tv_one",Fuji TV ONE 
+https://zhenix-px.shiku.cloud/iptv/luongz/master_playlist/ca+fuji_one
+#EXTINF:-1 group-title="CS" tvg-id="fuji_tv_two",Fuji TV TWO 
+https://zhenix-px.shiku.cloud/iptv/luongz/master_playlist/ca+fuji_two
+#EXTINF:-1 group-title="CS" tvg-id="pigoo",Pigoo (NSFW) 
+https://zhenix-px.shiku.cloud/iptv/luongz/master_playlist/ca+pigoo
+#EXTINF:-1 group-title="CS" tvg-id="v_paradise",V Paradise (NSFW) 
+https://zhenix-px.shiku.cloud/iptv/luongz/master_playlist/ca+v_paradise
+#EXTINF:-1 group-title="CS" tvg-id="sports_live_plus",Sport Live Plus 
+https://zhenix-px.shiku.cloud/iptv/luongz/master_playlist/ca+sport_live_plus
+#EXTINF:-1 group-title="CS" tvg-id="fighting_tv",Fighting TV Samurai 
+https://zhenix-px.shiku.cloud/iptv/luongz/master_playlist/ca+fighting_tv
+#EXTINF:-1 group-title="CS" tvg-id="home_drama",Home Drama Channel 
+https://zhenix-px.shiku.cloud/iptv/luongz/master_playlist/ca+homedrama
+
 #EXTINF:-1 group-title="Tokyo" tvg-id="nhk_g_tokyo",NHK G HD
 https://zhenix-px.shiku.cloud/iptv/zhenxen/master_playlist/hdgd01
 #EXTINF:-1 group-title="Tokyo" tvg-id="nhk_e_tokyo",NHK E HD
@@ -354,5 +385,6 @@ https://zhenix-px02.shiku.cloud/iptv/zhenxen/master_playlist/cs16
 https://zhenix-px02.shiku.cloud/iptv/zhenxen/master_playlist/cs15
 #EXTINF:-1 group-title="CS" tvg-id="tbs_news", TBS News (Server 02)
 https://zhenix-px02.shiku.cloud/iptv/zhenxen/master_playlist/cs11
+
 
 
