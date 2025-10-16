@@ -11,9 +11,10 @@
 Online via backup:[[click here](https://raw.githubusercontent.com/NextGenX02/iptv-jp/refs/heads/shiku-test/jp-relay.m3u) for backup playlist stream]<br>
 
 ## Current area that can access this relay server
-* GEO is disable since my server use caching and p2p on the web player
+* All server have rate limit protection, so please use player that's doesn't use thread to request the data otherwise, you will get 429 error (example you can use 1 instance of potplayer to watch the stream, if you spawn more you will get limited quickly due to the player use thread to request the data).
+* GEO is disable since my server use caching and p2p on the web player.
 * Please note using a **VPN** to access this relay is not support and will be block due to constant abuse from those ISP (except warp by cloudflare).
-* Please used **WARP by cloudflare** if you got laggy, since my server is directly connect to cloudflare server
+* Please used **WARP by cloudflare** if you got laggy, since my server is directly connect to cloudflare server.
 
 # IPTV-JP project / IPTV-JPプロジェクト
 
