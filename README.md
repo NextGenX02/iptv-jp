@@ -3,6 +3,7 @@
 * This playlist use source from the original repo and other source and relay/restream it back to my server to improve the connectivity.<br>
 * I make a web player because not all player is allow to use the relay (due to player constanly request the content for thumbnail)<br>
 [Click here](https://zhx-player.shiku.cloud/) to go to the web player
+* If somehow the server responds with 404 that's mean the source its down!,Please wait until the source is back online.
 
 ## Server Status
 Online via backup:[[click here](https://raw.githubusercontent.com/NextGenX02/iptv-jp/refs/heads/shiku-test/jp-relay.m3u) for backup playlist stream]<br>
