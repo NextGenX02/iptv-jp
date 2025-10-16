@@ -5,7 +5,7 @@
 [Click here](https://zhx-player.shiku.cloud/) to go to the web player
 
 ## Server Status
-Online via backup:[[click here](https://raw.githubusercontent.com/NextGenX02/iptv-jp/refs/heads/shiku-test/jp-relay.m3u) for backup stream]<br>
+Online via backup:[[click here](https://raw.githubusercontent.com/NextGenX02/iptv-jp/refs/heads/shiku-test/jp-relay.m3u) for backup playlist stream]<br>
 
 ## Current area that can access this relay server
 * GEO is disable since my server use caching and p2p on the web player (coming soon)
