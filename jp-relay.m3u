@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://epg.pw/xmltv/epg_ID.xml,https://epg.freejptv.com/jp.xml,https://animenosekai.github.io/japanterebi-xmltv/guide.xml" tvg-shift=0 m3uautoload=1
+#EXTM3U url-tvg="https://zhenix-px02.shiku.cloud/epg/tv_epg.xml?region=id_1,https://zhenix-px02.shiku.cloud/epg/tv_epg.xml?region=jp_1,https://zhenix-px02.shiku.cloud/epg/tv_epg.xml?region=jp_2" tvg-shift=0 m3uautoload=1
 
 #EXTINF:-1 group-title="Information" tvg-logo="https://i.imgur.com/2OINFaA.png",We need donations to maintain the server! | サーバー維持のため寄付募集中！
 http://radio.hkg.reynalix.shiku.cloud:7761/hls/shiku_radio/live.m3u8
@@ -354,4 +354,5 @@ https://zhenix-px02.shiku.cloud/iptv/zhenxen/master_playlist/cs16
 https://zhenix-px02.shiku.cloud/iptv/zhenxen/master_playlist/cs15
 #EXTINF:-1 group-title="CS" tvg-id="tbs_news", TBS News (Server 02)
 https://zhenix-px02.shiku.cloud/iptv/zhenxen/master_playlist/cs11
+
 
