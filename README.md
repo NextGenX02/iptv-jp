@@ -4,6 +4,7 @@
 * I make a web player because not all player is allow to use the relay (due to player constanly request the content for thumbnail)<br>
 [Click here](https://zhx-player.shiku.cloud/) to go to the web player
 * If somehow the server responds with 404 that's mean the source its down!,Please wait until the source is back online.
+* This playlist have 2 server (HK and SG) so you can switch to one that work in case one of those is down.
 * Please support the owner of this repo by donating :), you can find more below
   
 ## Server Status
