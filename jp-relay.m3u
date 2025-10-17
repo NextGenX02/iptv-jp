@@ -9,6 +9,10 @@ http://radio.hkg.reynalix.shiku.cloud:7761/hls/shiku_radio/live.m3u8
 #EXTINF:-1 group-title="Information" tvg-logo="https://cdn-icons-png.flaticon.com/512/0/49.png", 「utako.moe」リンクURLの他所への転載お断り!!詳細はgithubのREADME
 http://radio.hkg.reynalix.shiku.cloud:7761/hls/shiku_radio/live.m3u8
 
+# Test Channel
+#EXTINF:-1 group-title="CS" tvg-id="m_on",Music ON TV 
+http://109.111.197.150:62276/m_on_test.m3u8
+
 # Server 01 (NL) 1Gbps
 #EXTINF:-1 group-title="BS" tvg-id="bs11",BS11 
 https://zhenix-px.shiku.cloud/iptv/luongz/master_playlist/mt+BS11
@@ -385,3 +389,4 @@ https://zhenix-px02.shiku.cloud/iptv/zhenxen/master_playlist/cs16
 https://zhenix-px02.shiku.cloud/iptv/zhenxen/master_playlist/cs15
 #EXTINF:-1 group-title="CS" tvg-id="tbs_news", TBS News (Server 02)
 https://zhenix-px02.shiku.cloud/iptv/zhenxen/master_playlist/cs11
+
