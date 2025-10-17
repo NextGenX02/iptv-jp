@@ -30,10 +30,6 @@ https://zhenix-px.shiku.cloud/iptv/luongz/master_playlist/ca+ex_ch2
 https://zhenix-px.shiku.cloud/iptv/luongz/master_playlist/ca+fuji_one
 #EXTINF:-1 group-title="CS" tvg-id="fuji_tv_two",Fuji TV TWO 
 https://zhenix-px.shiku.cloud/iptv/luongz/master_playlist/ca+fuji_two
-#EXTINF:-1 group-title="CS" tvg-id="pigoo",Pigoo (NSFW) 
-https://zhenix-px.shiku.cloud/iptv/luongz/master_playlist/ca+pigoo
-#EXTINF:-1 group-title="CS" tvg-id="v_paradise",V Paradise (NSFW) 
-https://zhenix-px.shiku.cloud/iptv/luongz/master_playlist/ca+v_paradise
 #EXTINF:-1 group-title="CS" tvg-id="sports_live_plus",Sport Live Plus 
 https://zhenix-px.shiku.cloud/iptv/luongz/master_playlist/ca+sport_live_plus
 #EXTINF:-1 group-title="CS" tvg-id="fighting_tv",Fighting TV Samurai 
@@ -196,6 +192,10 @@ https://zhenix-px.shiku.cloud/iptv/zhenxen/master_playlist/cs16
 https://zhenix-px.shiku.cloud/iptv/zhenxen/master_playlist/cs15
 #EXTINF:-1 group-title="CS" tvg-id="tbs_news", TBS News
 https://zhenix-px.shiku.cloud/iptv/zhenxen/master_playlist/cs11
+#EXTINF:-1 group-title="CS" tvg-id="pigoo",Pigoo (NSFW) 
+https://zhenix-px.shiku.cloud/iptv/luongz/master_playlist/ca+pigoo
+#EXTINF:-1 group-title="CS" tvg-id="v_paradise",V Paradise (NSFW) 
+https://zhenix-px.shiku.cloud/iptv/luongz/master_playlist/ca+v_paradise
 
 # Server 02 (SG) 1Gbps
 #EXTINF:-1 group-title="Tokyo" tvg-id="nhk_g_tokyo",NHK G HD (Server 02)
@@ -385,8 +385,3 @@ https://zhenix-px02.shiku.cloud/iptv/zhenxen/master_playlist/cs16
 https://zhenix-px02.shiku.cloud/iptv/zhenxen/master_playlist/cs15
 #EXTINF:-1 group-title="CS" tvg-id="tbs_news", TBS News (Server 02)
 https://zhenix-px02.shiku.cloud/iptv/zhenxen/master_playlist/cs11
-
-
-
-
-
